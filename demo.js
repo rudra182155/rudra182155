@@ -1,1 +1,4 @@
-nothing to show
+function showAlert()
+{
+  alert("Demo");
+}
